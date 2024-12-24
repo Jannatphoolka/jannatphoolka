@@ -6,10 +6,10 @@ Aspiring Software Developer and AI Enthusiast
 
 "I am a passionate problem-solver, keen on developing innovative solutions and collaborating with teams to build impactful applications."  
 
-* 🌍  I'm based in Canada  
+* 🌍  I'm based in Ontario, Canada  
 * ✉️  You can contact me at [jap.k22@gmail.com](mailto:jap.k22@gmail.com)  
-* 🚀  I'm currently working on a Robo-Cleaning Project using Reinforcement Learning  
-* 🧠  I'm exploring Machine Learning and Backend Development  
+* 🚀  I worked on a Robo-Cleaning Project using Reinforcement Learning  
+* 🧠  I'm proficient in Machine Learning and Backend Development  
 * 🤝  I'm open to collaborating on AI, Software Development, or Full Stack projects  
 * ⚡  Fun fact: I enjoy learning new languages—both spoken and programming!  
 
