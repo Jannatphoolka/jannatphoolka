@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Japtesh Kaur  
 ===================================================================================================================================  
 
-Aspiring Software Developer and AI Enthusiast  
+Software Developer and AI Enthusiast  
 --------------------------------------------  
 
 "I am a passionate problem-solver, keen on developing innovative solutions and collaborating with teams to build impactful applications."  
