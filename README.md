@@ -33,7 +33,7 @@ Software Developer and AI Enthusiast
 - Languages: Python, C#, SQL  
 - Frameworks: TensorFlow, PyTorch  
 - Databases: PostgreSQL, MySQL  
-- Cloud: AWS  
+- Cloud: AWS, GCP
 - Development: Git, LaTeX  
 
 ### Projects  
