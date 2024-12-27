@@ -39,7 +39,7 @@ Software Developer and AI Enthusiast
 ### Projects  
 
 - **Jenkins CI/CD Deployment**: A streamlined CI/CD pipeline for a Spring Boot application using Jenkins, Docker, Kubernetes, and cloud technologies for efficient deployment.  
-- **Text Summarization**: Implemented abstractive text summarization using Transformer models (T5, GPT-2).  
+- **Bank Churn Analysis**:  Focused on analyzing bank customer churn using both Tableau for visualization and Python for data analysis.  
 - **Stock Market Analysis**: Developed predictive models for stock performance using historical data.  
 
 ### Let's Connect  
