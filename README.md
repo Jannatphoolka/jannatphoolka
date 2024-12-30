@@ -8,7 +8,7 @@ Software Developer and AI Enthusiast
 
 * 🌍  I'm based in Ontario, Canada  
 * ✉️  You can contact me at [jap.k22@gmail.com](mailto:jap.k22@gmail.com)  
-* 🚀  I worked on a Robo-Cleaning Project using Reinforcement Learning  
+* 🚀  I worked on an Open Source End-To-End CI/CD Project, demonstrating a Jenkins pipeline for a Spring Boot application integrated with Docker and Kubernetes, hosted on AWS EC2 instances, and leveraging tools like SonarQube and ArgoCD for deployment. 
 * 🧠  I'm proficient in Machine Learning and Backend Development  
 * 🤝  I'm open to collaborating on AI, Software Development, or Full Stack projects  
 * ⚡  Fun fact: I enjoy learning new languages—both spoken and programming!  
