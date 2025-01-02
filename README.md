@@ -11,7 +11,9 @@ Software Developer and AI Enthusiast
 * 🚀  I worked on an Open Source End-To-End CI/CD Project, demonstrating a Jenkins pipeline for a Spring Boot application integrated with Docker and Kubernetes, hosted on AWS EC2 instances, and leveraging tools like SonarQube and ArgoCD for deployment. 
 * 🧠  I'm proficient in Machine Learning and Backend Development  
 * 🤝  I'm open to collaborating on AI, Software Development, or Full Stack projects  
-* ⚡  Fun fact: I enjoy learning new languages—both spoken and programming!  
+* ⚡  Fun fact: I enjoy learning new languages—both spoken and programming!
+* 🤖  AI Tools: Leveraging GitHub Copilot for faster development and smarter code suggestions to enhance productivity.
+
 
 ### Skills  
 
